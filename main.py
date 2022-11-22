@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import os
-from pync import Notifier
 
 
 def init_conn_and_get_val():
